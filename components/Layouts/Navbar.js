@@ -69,7 +69,7 @@ class Navbar extends Component {
 								<Link href='/'>
 									<a className='navbar-brand'>
 										<img
-											src='https://sare.in/images/sare/sare-logo-ic.svg'
+											src='/images/sare-logo-ic.png'
 											alt='logo'
 										/>
 										<svg
